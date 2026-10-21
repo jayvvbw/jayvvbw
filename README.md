@@ -12,5 +12,5 @@ I treat learning data structures and algorithms as a daily habit, focusing on co
 ## Feel free to connect with me or take a look at my active profiles:
 - LeetCode: https://leetcode.com/u/jayvvbw/
 - CodeForces: https://codeforces.com/profile/jayvvbw
-- GitHUb: https: //github.com/jayvvbw
+- GitHUb: https://github.com/jayvvbw
 - LinkedIn: www.linkedin.com/in/jay-agrawal-9a4812445
